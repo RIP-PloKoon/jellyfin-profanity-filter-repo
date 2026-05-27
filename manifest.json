@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "a1b2c3d4-5678-90ab-cdef-123456789012",
+    "name": "Profanity Filter",
+    "description": "TV Guardian-style profanity filtering for Jellyfin using subtitle timing.",
+    "overview": "Mutes profanity based on subtitle timestamps.",
+    "owner": "RIP-PloKoon",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial build from Light1Knight/jelly-guardian.",
+        "targetAbi": "10.11.3.0",
+        "sourceUrl": "https://raw.githubusercontent.com/RIP-PloKoon/jellyfin-profanity-filter-repo/main/ProfanityFilter_1.0.0-jellyfin-repo.zip",
+        "checksum": "2be345e615e18dac44ee2f3d89ca730c",
+        "timestamp": "2026-05-26T00:00:00Z"
+      }
+    ]
+  }
+]
