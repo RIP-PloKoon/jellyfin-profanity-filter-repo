@@ -8,8 +8,8 @@ Add this repository URL in Jellyfin:
 https://raw.githubusercontent.com/RIP-PloKoon/jellyfin-profanity-filter-repo/main/manifest.json
 ```
 
-The release asset for `v1.0.0` should be:
+Current plugin package:
 
 ```text
-ProfanityFilter_1.0.0-jellyfin-repo.zip
+ProfanityFilter_1.0.1-jellyfin-repo.zip
 ```

@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.0.1.0",
+        "changelog": "Adds the missing Jellyfin configuration page for custom word lists and mute settings.",
+        "targetAbi": "10.11.3.0",
+        "sourceUrl": "https://raw.githubusercontent.com/RIP-PloKoon/jellyfin-profanity-filter-repo/main/ProfanityFilter_1.0.1-jellyfin-repo.zip",
+        "checksum": "913511478c7b533cc2aba996992d82aa",
+        "timestamp": "2026-05-27T00:00:00Z"
+      },
+      {
         "version": "1.0.0.0",
         "changelog": "Initial build from Light1Knight/jelly-guardian.",
         "targetAbi": "10.11.3.0",
