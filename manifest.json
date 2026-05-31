@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.0.3.0",
+        "changelog": "Fixes Jellyfin Web compatibility by removing the dependency on legacy global web APIs and detecting active playback from the video stream.",
+        "targetAbi": "10.11.3.0",
+        "sourceUrl": "https://raw.githubusercontent.com/RIP-PloKoon/jellyfin-profanity-filter-repo/main/ProfanityFilter_1.0.3-jellyfin-repo.zip",
+        "checksum": "c0af929178eed3135a8bd25791aa8a3d",
+        "timestamp": "2026-05-31T00:00:00Z"
+      },
+      {
         "version": "1.0.2.0",
         "changelog": "Fixes Subtitle Extract cache discovery, stores metadata in Jellyfin data path, and serves the web client script.",
         "targetAbi": "10.11.3.0",
